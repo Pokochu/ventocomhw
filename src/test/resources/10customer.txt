@@ -1,0 +1,54 @@
+toll
+F
+colostok
+HB ceruza
+HB ceruza
+colostok
+toll
+szatyor
+csavarkulcs
+doboz
+F
+szatyor
+szatyor
+doboz
+doboz
+szatyor
+F
+filctoll
+toll
+F
+HB ceruza
+kefe
+csavarkulcs
+colostok
+doboz
+F
+colostok
+colostok
+kefe
+ceruzaelem
+szatyor
+szatyor
+F
+toll
+toll
+F
+kefe
+csavarkulcs
+kefe
+colostok
+F
+szatyor
+csavarkulcs
+kefe
+colostok
+ceruzaelem
+ceruzaelem
+ceruzaelem
+ceruzaelem
+F
+colostok
+csavarkulcs
+HB ceruza
+F

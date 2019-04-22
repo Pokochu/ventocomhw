@@ -1,0 +1,16 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="TestAll">
+
+    <test name="txtreader">
+        <classes>
+            <class name="com.ventocom.javahw.TxtReaderTests" />
+        </classes>
+    </test>
+
+    <test name="customerutility">
+        <classes>
+            <class name="com.ventocom.javahw.CustomerUtilityTests" />
+        </classes>
+    </test>
+</suite>
